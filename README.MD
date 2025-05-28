@@ -1,5 +1,7 @@
 # A replacement display for the NW-A1000 Network Walkman
 
+![Photo of a device with a working screen.](https://github.com/asivery/nw-a1000-oled/blob/master/res/photo.png?raw=true)
+
 ## How it works?
 
 Since the Sony NW-A1000 uses an obsolete SSD1328U1-based screen, to make it work with a generic SSD1327 screen I had to patch the firmware.
