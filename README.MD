@@ -2,11 +2,13 @@
 
 ![Photo of a device with a working screen.](https://github.com/asivery/nw-a1000-oled/blob/master/res/photo.png?raw=true)
 
-## How it works?
+## How it works
 
 Since the Sony NW-A1000 uses an obsolete SSD1328U1-based screen, to make it work with a generic SSD1327 screen I had to patch the firmware.
 
 There's, of course, no new screens available with that exact pinout, so I designed a flex PCB which simply translates the pin layout to the one used by new OLEDs.
+
+[Here](https://aliexpress.com/item/1005006480988390.html)'s the screen I used.
 
 ## How to patch?
 
